@@ -1,0 +1,13 @@
+{
+  "name": "ai-doctor",
+  "version": "1.0.0",
+  "main": "allserver.js",
+  "scripts": {
+    "start": "node allserver.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
